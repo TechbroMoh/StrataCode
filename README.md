@@ -59,7 +59,7 @@ Interested in working with us? Let’s build something great together!
 
 - 📩 **Email:** felixmonari400@gmail.com  
 - 🌐 **GitHub:** https://github.com/TechbroMoh  
-- 📱 **LinkedIn:** https://linkedin.com/in/your-profile  
+- 📱 **LinkedIn:** https://www.linkedin.com/in/felixmonari5/
 - 🏢 Website: *monari.vercel.app*
 
 ---
