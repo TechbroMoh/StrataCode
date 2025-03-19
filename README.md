@@ -1,12 +1,68 @@
-# React + Vite
+# StrataCode 💻🚀  
+**Software Engineering | Web & Mobile Apps | Cloud | DevOps**
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> 📈 Empowering Businesses & Individuals with Efficient Tech Solutions
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🌐 About StrataCode
 
-## Expanding the ESLint configuration
+StrataCode is a tech-driven software company focused on delivering cutting-edge, reliable, and scalable digital solutions to businesses and individuals. Our mission is to bridge the gap between people and technology through smart, intuitive systems tailored to your needs.
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Whether it’s building a web application, launching a mobile platform, automating a process, or deploying cloud-based infrastructure — **we deliver clean, high-performance code** backed by modern DevOps practices.
+
+---
+
+## 👨‍💻 What We Do
+
+- 🔧 **Custom Software Development**
+- 🌍 **Web & Mobile App Solutions**
+- ☁️ **Cloud Deployment & Management**
+- 🔁 **API Development & Integration**
+- 🛠 **DevOps & Automation**
+- 📊 **Data-Driven Dashboards & Analytics**
+
+---
+
+## 💼 Tech Stack Highlights
+
+We work with a wide array of tools and technologies:
+
+**Languages & Frameworks:**  
+- JavaScript (React, Node.js)  
+- Python (Flask, Django)  
+- Java, Kotlin, Swift  
+- SQL, PostgreSQL, MySQL  
+
+**DevOps & Cloud:**  
+- Docker, Kubernetes  
+- GitHub Actions, CI/CD Pipelines  
+- AWS, Google Cloud, Azure  
+
+**Other Tools:**  
+- Figma for UI/UX Design  
+- Firebase, Supabase  
+- REST APIs, GraphQL  
+
+---
+
+## 📍 Location
+
+We are based in Kenya 🇰🇪 but operate **remotely** to serve clients across the globe.
+
+---
+
+## 📨 Contact Us
+
+Interested in working with us? Let’s build something great together!
+
+- 📩 **Email:** felixmonari400@gmail.com  
+- 🌐 **GitHub:** [@TechbroMoh](https://github.com/TechbroMoh)  
+- 📱 **LinkedIn:** [Felix Monari (Moh)](https://linkedin.com/in/your-profile)  
+- 🏢 Website: *(Coming soon...)*
+
+---
+
+## 🧾 License
+
+© 2025 StrataCode. All rights reserved.
