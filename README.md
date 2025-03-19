@@ -21,6 +21,7 @@ Whether it’s building a web application, launching a mobile platform, automati
 - 🔁 **API Development & Integration**
 - 🛠 **DevOps & Automation**
 - 📊 **Data-Driven Dashboards & Analytics**
+       Cyber Security
 
 ---
 
@@ -30,7 +31,7 @@ We work with a wide array of tools and technologies:
 
 **Languages & Frameworks:**  
 - JavaScript (React, Node.js)  
-- Python (Flask, Django)  
+- Python (Flask, Django), MongoDb, PHP Laravel  
 - Java, Kotlin, Swift  
 - SQL, PostgreSQL, MySQL  
 
@@ -57,9 +58,9 @@ We are based in Kenya 🇰🇪 but operate **remotely** to serve clients across 
 Interested in working with us? Let’s build something great together!
 
 - 📩 **Email:** felixmonari400@gmail.com  
-- 🌐 **GitHub:** [@TechbroMoh](https://github.com/TechbroMoh)  
-- 📱 **LinkedIn:** [Felix Monari (Moh)](https://linkedin.com/in/your-profile)  
-- 🏢 Website: *(Coming soon...)*
+- 🌐 **GitHub:** https://github.com/TechbroMoh  
+- 📱 **LinkedIn:** https://linkedin.com/in/your-profile  
+- 🏢 Website: *monari.vercel.app*
 
 ---
 
