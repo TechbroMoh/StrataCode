@@ -66,4 +66,4 @@ Interested in working with us? Let’s build something great together!
 
 ## 🧾 License
 
-© 2025 StrataCode. All rights reserved.
+© 2025 StrataCode. All rights reserved....
